@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#pet-business-ui-tabs").tabs()});
